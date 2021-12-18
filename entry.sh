@@ -4,8 +4,8 @@ BUILD_DIR='/src/build'
 # UPDATE ME! x86_64 snapshot
 # Platform List: https://openwrt.org/docs/platforms/start
 # Release Page: https://downloads.openwrt.org/releases/19.07.3/targets/
-SDK_URL="https://downloads.openwrt.org/snapshots/targets/x86/64/openwrt-sdk-x86-64_gcc-8.4.0_musl.Linux-x86_64.tar.xz"
-SDK_SUM="6a70cd1e6249125b0c669679fba9302e40cffae004f63b3a5117b2fff6d42049"
+SDK_URL="https://downloads.openwrt.org/releases/21.02.1/targets/ipq40xx/generic/openwrt-sdk-21.02.1-ipq40xx-generic_gcc-8.4.0_musl_eabi.Linux-x86_64.tar.xz"
+SDK_SUM="76a59aec16fd58fa9e28d63a5e53448b84824103e37bc9f18571b1a83238066e"
 
 #SDK_URL="https://downloads.openwrt.org/releases/19.07.3/targets/x86/64/openwrt-sdk-19.07.3-x86-64_gcc-7.5.0_musl.Linux-x86_64.tar.xz"
 #SDK_SUM="aeafd4f8405ac2a226c3aa1b5b98e1994a541cdca2f2fe2d0b8a1696a73cf8d9"
